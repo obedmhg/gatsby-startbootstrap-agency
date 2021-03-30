@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "En el mapa"
 menuText: "Menu "
 ---
